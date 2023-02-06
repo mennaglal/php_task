@@ -1,2 +1,2 @@
 # php_task
-## The website contains login, register, the home page, and edit profile using PHP, Mysql, Html,CSS, Bootstrap, jquery
+## The website contains a login page, a register page, a home page, and an edit profile page using PHP, Mysql, Html, CSS, Bootstrap, Javascript and jquery
